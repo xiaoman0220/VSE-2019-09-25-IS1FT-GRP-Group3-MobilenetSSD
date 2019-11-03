@@ -16,9 +16,9 @@ Esports are getting more and more popular in recent years. Competitive games lik
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) |
 | :------------ |:---------------:| :-----|
-| Chan Kan Hei | A0198512Y | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|
-| Guo Xiang  | A0198533U | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|
-| Li Jingmeng | A0198484J | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz|
+| Chan Kan Hei | A0198512Y | Data acquisition, data preprocessing, opencv conversion|
+| Guo Xiang  | A0198533U | Data preprocessing, code integration, model training|
+| Li Jingmeng | A0198484J | Datat preprocessing, model training, model evaluation|
 
 ---
 ## SECTION 4 : USER GUIDE
