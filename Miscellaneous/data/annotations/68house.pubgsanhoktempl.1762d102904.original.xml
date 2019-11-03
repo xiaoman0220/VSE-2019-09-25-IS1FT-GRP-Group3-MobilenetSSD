@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pubg house</folder>
+	<filename>68.pubgsanhoktempl.1762d102904.original.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg house/68.pubgsanhoktempl.1762d102904.original.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>947</xmin>
+			<ymin>238</ymin>
+			<xmax>1620</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>674</ymin>
+			<xmax>634</xmax>
+			<ymax>843</ymax>
+		</bndbox>
+	</object>
+</annotation>

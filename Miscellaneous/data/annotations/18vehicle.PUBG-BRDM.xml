@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>18.PUBG-BRDM.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/18.PUBG-BRDM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>198</ymin>
+			<xmax>631</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

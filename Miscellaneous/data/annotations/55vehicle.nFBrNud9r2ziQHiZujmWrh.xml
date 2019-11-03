@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>55.nFBrNud9r2ziQHiZujmWrh.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/55.nFBrNud9r2ziQHiZujmWrh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>115</ymin>
+			<xmax>467</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>

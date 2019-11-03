@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>34.20-09-2017-pubg-best-plays-all-the-best-pubg-kills-vehicle-stunts-and-best-wins.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/34.20-09-2017-pubg-best-plays-all-the-best-pubg-kills-vehicle-stunts-and-best-wins.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>140</ymin>
+			<xmax>1824</xmax>
+			<ymax>943</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>184</ymin>
+			<xmax>997</xmax>
+			<ymax>370</ymax>
+		</bndbox>
+	</object>
+</annotation>

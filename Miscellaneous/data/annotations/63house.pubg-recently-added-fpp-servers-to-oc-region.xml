@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg house</folder>
+	<filename>63.pubg-recently-added-fpp-servers-to-oc-region.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg house/63.pubg-recently-added-fpp-servers-to-oc-region.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>454</ymin>
+			<xmax>751</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

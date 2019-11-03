@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>11.pubg_dacia-590x331.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/11.pubg_dacia-590x331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>59</ymin>
+			<xmax>480</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

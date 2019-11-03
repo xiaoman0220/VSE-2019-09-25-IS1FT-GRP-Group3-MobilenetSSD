@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>45.gsmarena_004.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/45.gsmarena_004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>728</width>
+		<height>354</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>93</ymin>
+			<xmax>582</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

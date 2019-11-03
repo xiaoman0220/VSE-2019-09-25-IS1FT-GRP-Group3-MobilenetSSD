@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>36.pubg-flare-gun1.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/36.pubg-flare-gun1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>439</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>71</ymin>
+			<xmax>377</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>133</ymin>
+			<xmax>445</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>379</ymin>
+			<xmax>562</xmax>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+</annotation>

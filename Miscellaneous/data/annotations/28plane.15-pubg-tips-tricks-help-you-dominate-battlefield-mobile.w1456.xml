@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>28.15-pubg-tips-tricks-help-you-dominate-battlefield-mobile.w1456.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/28.15-pubg-tips-tricks-help-you-dominate-battlefield-mobile.w1456.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1456</width>
+		<height>708</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>200</ymin>
+			<xmax>1166</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>

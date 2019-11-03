@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video1</folder>
+	<filename>scene02101.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/video1/scene02101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>479</ymin>
+			<xmax>782</xmax>
+			<ymax>687</ymax>
+		</bndbox>
+	</object>
+</annotation>

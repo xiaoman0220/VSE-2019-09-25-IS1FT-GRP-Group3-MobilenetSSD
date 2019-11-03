@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>42.pubg-update-patch-number-20-new-7-6-2-mm-weapon-map-sanhok-vehicle-details-notes-re_feature.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/42.pubg-update-patch-number-20-new-7-6-2-mm-weapon-map-sanhok-vehicle-details-notes-re_feature.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1596</width>
+		<height>694</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>146</ymin>
+			<xmax>685</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>650</xmin>
+			<ymin>140</ymin>
+			<xmax>955</xmax>
+			<ymax>693</ymax>
+		</bndbox>
+	</object>
+</annotation>

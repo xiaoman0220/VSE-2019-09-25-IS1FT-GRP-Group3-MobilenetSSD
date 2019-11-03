@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video2</folder>
+	<filename>scene01651.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/video2/scene01651.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>335</xmin>
+			<ymin>1</ymin>
+			<xmax>993</xmax>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>28.zima.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/28.zima.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>884</ymin>
+			<xmax>2160</xmax>
+			<ymax>1870</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3118</xmin>
+			<ymin>615</ymin>
+			<xmax>3542</xmax>
+			<ymax>1236</ymax>
+		</bndbox>
+	</object>
+</annotation>

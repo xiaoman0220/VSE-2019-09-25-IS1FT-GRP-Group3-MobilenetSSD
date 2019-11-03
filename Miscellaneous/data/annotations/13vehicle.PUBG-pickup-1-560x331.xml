@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>13.PUBG-pickup-1-560x331.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/13.PUBG-pickup-1-560x331.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>88</ymin>
+			<xmax>440</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>1</ymin>
+			<xmax>534</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

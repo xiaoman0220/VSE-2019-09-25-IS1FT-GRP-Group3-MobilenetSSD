@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>74.https%3A%2F%2Fblogs-images.forbes.com%2Ferikkain%2Ffiles%2F2017%2F10%2FPUBG-parachute.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/74.https%3A%2F%2Fblogs-images.forbes.com%2Ferikkain%2Ffiles%2F2017%2F10%2FPUBG-parachute.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>322</ymin>
+			<xmax>608</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+</annotation>

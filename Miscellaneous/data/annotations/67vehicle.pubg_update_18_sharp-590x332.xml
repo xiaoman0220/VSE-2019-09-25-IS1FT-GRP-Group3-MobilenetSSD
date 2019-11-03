@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>67.pubg_update_18_sharp-590x332.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/67.pubg_update_18_sharp-590x332.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>590</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>171</ymin>
+			<xmax>500</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>211</ymin>
+			<xmax>288</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>22</ymin>
+			<xmax>512</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

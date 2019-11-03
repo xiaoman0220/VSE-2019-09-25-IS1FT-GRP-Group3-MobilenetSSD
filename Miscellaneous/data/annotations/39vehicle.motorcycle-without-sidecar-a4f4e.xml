@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>39.motorcycle-without-sidecar-a4f4e.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/39.motorcycle-without-sidecar-a4f4e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>337</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>34</ymin>
+			<xmax>429</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

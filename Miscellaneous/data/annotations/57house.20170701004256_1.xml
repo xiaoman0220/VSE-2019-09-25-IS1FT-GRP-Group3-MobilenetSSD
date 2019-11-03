@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg house</folder>
+	<filename>57.20170701004256_1.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg house/57.20170701004256_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>565</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>287</ymin>
+			<xmax>527</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>392</xmin>
+			<ymin>166</ymin>
+			<xmax>998</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>1</ymin>
+			<xmax>391</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

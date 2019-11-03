@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>53.BRDM_watermark_1_BEFORE_erangel_visual_update_1260x400.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/53.BRDM_watermark_1_BEFORE_erangel_visual_update_1260x400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>595</ymin>
+			<xmax>861</xmax>
+			<ymax>1301</ymax>
+		</bndbox>
+	</object>
+</annotation>

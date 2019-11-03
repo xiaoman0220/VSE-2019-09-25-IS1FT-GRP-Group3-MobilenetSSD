@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>19.https%3A%2F%2Fblogs-images.forbes.com%2Fmaxthielmeyer%2Ffiles%2F2018%2F04%2F20180429163038_1-1200x675.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/19.https%3A%2F%2Fblogs-images.forbes.com%2Fmaxthielmeyer%2Ffiles%2F2018%2F04%2F20180429163038_1-1200x675.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>265</ymin>
+			<xmax>620</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>577</xmin>
+			<ymin>226</ymin>
+			<xmax>650</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>665</xmin>
+			<ymin>210</ymin>
+			<xmax>843</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

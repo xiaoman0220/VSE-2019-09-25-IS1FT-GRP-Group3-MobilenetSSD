@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>75.PUBG-Update-26.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/75.PUBG-Update-26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1086</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1114</xmin>
+			<ymin>590</ymin>
+			<xmax>1231</xmax>
+			<ymax>975</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>817</ymin>
+			<xmax>801</xmax>
+			<ymax>1048</ymax>
+		</bndbox>
+	</object>
+</annotation>

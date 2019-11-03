@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>24.1200px-Tukshai.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/24.1200px-Tukshai.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>675</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>54</ymin>
+			<xmax>819</xmax>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>830</xmin>
+			<ymin>79</ymin>
+			<xmax>1030</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>938</xmin>
+			<ymin>214</ymin>
+			<xmax>1200</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

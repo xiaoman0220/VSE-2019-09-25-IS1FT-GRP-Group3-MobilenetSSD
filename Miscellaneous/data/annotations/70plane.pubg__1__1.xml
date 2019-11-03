@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>70.pubg__1__1.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/70.pubg__1__1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>309</ymin>
+			<xmax>1561</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>

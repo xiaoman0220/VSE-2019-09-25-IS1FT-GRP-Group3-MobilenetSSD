@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>47.pubg_x1.0.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/47.pubg_x1.0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>458</ymin>
+			<xmax>762</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>943</xmin>
+			<ymin>633</ymin>
+			<xmax>1074</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>797</xmin>
+			<ymin>636</ymin>
+			<xmax>895</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

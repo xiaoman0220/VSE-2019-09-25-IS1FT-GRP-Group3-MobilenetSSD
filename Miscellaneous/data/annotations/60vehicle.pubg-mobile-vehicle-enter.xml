@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>60.pubg-mobile-vehicle-enter.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/60.pubg-mobile-vehicle-enter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>810</ymin>
+			<xmax>1040</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>924</xmin>
+			<ymin>247</ymin>
+			<xmax>1122</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>873</ymin>
+			<xmax>2048</xmax>
+			<ymax>1532</ymax>
+		</bndbox>
+	</object>
+</annotation>

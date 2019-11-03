@@ -1,0 +1,26 @@
+<annotation>
+	<folder>video6</folder>
+	<filename>scene06301.jpg</filename>
+	<path>C:\Users\guoxi\Desktop\frames\video6\scene06301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>429</xmin>
+			<ymin>284</ymin>
+			<xmax>758</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

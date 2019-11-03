@@ -1,0 +1,38 @@
+<annotation>
+	<folder>video4</folder>
+	<filename>scene03901.jpg</filename>
+	<path>/Users/lijingmeng/Desktop/Intelligent Sensing Systems/CA1/frames/video4/scene03901.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>273</ymin>
+			<xmax>123</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1076</xmin>
+			<ymin>286</ymin>
+			<xmax>1208</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>35.i29eefjdl4511.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/35.i29eefjdl4511.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1082</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>7</ymin>
+			<xmax>1036</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>301</xmin>
+			<ymin>332</ymin>
+			<xmax>600</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

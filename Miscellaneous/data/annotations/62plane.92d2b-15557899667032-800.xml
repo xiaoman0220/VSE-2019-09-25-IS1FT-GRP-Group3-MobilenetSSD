@@ -1,0 +1,50 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>62.92d2b-15557899667032-800.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/62.92d2b-15557899667032-800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>7</ymin>
+			<xmax>793</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>504</xmin>
+			<ymin>116</ymin>
+			<xmax>569</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>House</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>105</ymin>
+			<xmax>316</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>

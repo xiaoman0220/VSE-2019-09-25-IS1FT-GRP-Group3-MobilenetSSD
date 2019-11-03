@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>24.pubghowtolandfaster.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/24.pubghowtolandfaster.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>561</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>166</ymin>
+			<xmax>731</xmax>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+</annotation>

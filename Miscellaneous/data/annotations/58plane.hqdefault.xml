@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>58.hqdefault.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/58.hqdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>124</ymin>
+			<xmax>388</xmax>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

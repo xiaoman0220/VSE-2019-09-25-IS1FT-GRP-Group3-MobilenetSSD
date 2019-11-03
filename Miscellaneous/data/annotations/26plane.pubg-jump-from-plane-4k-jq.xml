@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg plane</folder>
+	<filename>26.pubg-jump-from-plane-4k-jq.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg plane/26.pubg-jump-from-plane-4k-jq.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>280</ymin>
+			<xmax>1372</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+</annotation>

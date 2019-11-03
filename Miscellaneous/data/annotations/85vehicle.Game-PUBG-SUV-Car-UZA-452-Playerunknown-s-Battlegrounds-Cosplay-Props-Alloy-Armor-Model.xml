@@ -1,0 +1,26 @@
+<annotation>
+	<folder>pubg vehicle</folder>
+	<filename>85.Game-PUBG-SUV-Car-UZA-452-Playerunknown-s-Battlegrounds-Cosplay-Props-Alloy-Armor-Model.jpg</filename>
+	<path>/Users/Royaltchan/Downloads/PUBG/pubg vehicle/85.Game-PUBG-SUV-Car-UZA-452-Playerunknown-s-Battlegrounds-Cosplay-Props-Alloy-Armor-Model.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>175</ymin>
+			<xmax>833</xmax>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+</annotation>
