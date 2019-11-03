@@ -1,4 +1,6 @@
 ## Esports Object Detection with MobilenetSSD
+<img src="Miscellaneous/title picture.png"
+     style="float: left; margin-right: 0px;" />
 ---
 ## EXECUTIVE SUMMARY / PAPER ABSTRACT
 In this project, we will train an image object detection model to detect computer graphic objects in popular esports computer games.
