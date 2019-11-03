@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Esports Object Detection with MobilenetSSD
+## Computer Graphics Detection using Mobilenet v1 SSD
 <img src="Miscellaneous/title picture.png"
      style="float: left; margin-right: 0px;" />
 ---
